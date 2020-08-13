@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  font-family: "Lucida Console", Courier, monospace;
+}
+p {
+  color: white;
+  font-family: "Lucida Console", Courier, monospace;
+}
+button {
+  background-color: black;
+  color: white;
+  font-family: "Lucida Console", Courier, monospace;
+  padding: 10px;
+  border: 3px solid;
+  border-radius: 15px;
+}
